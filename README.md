@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Fall 2019 CPSC 481- Human Computer Interaction Project
 
-You can use the [editor on GitHub](https://github.com/MikleM20/CPSC-481-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our team's portfolio page for out CPSC 481 project. This page will be updated throughout the project and will describe the progress of our project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
 
-### Markdown
+Celina Ma
+Michael Manila
+Jacob Huber
+Lucas del Villar
+Syed Jafri
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Project Ideas
+#### Harmonic
+Online social platform for people to share music(mobile app or website). Places an emphasis on sharing music with others by allowing them to listen to music simultaneously, and encouraging discussion about songs, genres, adn artists.
 
-```markdown
-Syntax highlighted code block
+#### InspireUs
+Mobile app or Website that generates and gives simple prompts to content creators to help them get their creative juices flowing. Allows for content creators to share their work regarding the prompt with others.
 
-# Header 1
-## Header 2
-### Header 3
+#### MyStamps
+Mobile-accessible app for collecting stamps. Service providers can register with the app to add stamps for their service, while customers can record stamps they have with a scanning function to help keep the organized and easily accessible.
 
-- Bulleted
-- List
+### Stages
+#### Stage 1
+-Form a team (team members above)
+-Create  a team contract
+-[Online Repository]
+-Project [Portfolio](https://miklem20.github.io/CPSC-481-Project/)
 
-1. Numbered
-2. List
+### Stage 2
+Coming Soon
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Stage 3
+Coming Soon
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Stage 4
+Coming Soon
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikleM20/CPSC-481-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Stage 5
+Final Stage - Coming Soon
