@@ -24,7 +24,7 @@ Mobile-accessible app for collecting stamps. Service providers can register with
 -Form a Team (team members above)  
 -Create a Team Contract.  
 -[Online Repository](https://github.com/JacobHuber/CPSC481)  
--Project [Portfolio](https://miklem20.github.io/CPSC-481-Project/)  
+-Project [Portfolio](https://miklem20.github.io/CPSC481-Project-Portfolio/)  
 
 #### Stage 2
 Coming Soon
