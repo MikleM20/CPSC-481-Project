@@ -3,11 +3,12 @@
 Welcome to our team's portfolio page for our CPSC 481 project. This page will be updated throughout the project and will describe the progress of our project.
 
 ### Team Members
-Celina Ma  
-Michael Manila  
-Jacob Huber  
-Lucas del Villar  
-Syed Jafri  
+- Celina Ma  
+- Michael Manila  
+- Jacob Huber  
+- Lucas del Villar  
+- Syed Jafri  
+- Everest Wild
 
 ### Current Project Ideas
 #### Harmonic
@@ -21,11 +22,11 @@ Mobile-accessible app for collecting stamps. Service providers can register with
 
 ### Stages
 #### Stage 1
--Form a Team (team members above)  
--Create a Team Contract  
--[Online Repository](https://github.com/JacobHuber/CPSC481)  
--Project [Portfolio](https://miklem20.github.io/CPSC481-Project-Portfolio/)  
--Come Up With Three Idea Proposals
+- Form a Team (team members above)  
+- Create a Team Contract  
+- [Online Repository](https://github.com/JacobHuber/CPSC481)  
+- Project [Portfolio](https://miklem20.github.io/CPSC481-Project-Portfolio/)  
+- Come Up With Three Idea Proposals
 
 #### Stage 2
 Coming Soon
