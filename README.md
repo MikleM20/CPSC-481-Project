@@ -22,6 +22,7 @@ Creators (artists, writers, composers, etc.) often struggle to come up with new 
 - [Online Repository](https://github.com/JacobHuber/CPSC481)  
 - Project [Portfolio](https://miklem20.github.io/CPSC481-Project-Portfolio/)  
 - Come Up With Three Idea Proposals  
+
 ###### Harmonic
 Online social platform for people to share music(mobile app or website). Places an emphasis on sharing music with others by allowing them to listen to music simultaneously, and encouraging discussion about songs, genres, adn artists.
 
