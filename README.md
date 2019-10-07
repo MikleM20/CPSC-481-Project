@@ -35,9 +35,9 @@ Mobile-accessible app for collecting stamps. Service providers can register with
 #### Stage 2
 ##### Goals
 - Identify Project Idea - InspireUs  
-- Figure out who is impacted (in one way or another) by this system -- these are stakeholders.  
 - Create a list of stakeholders and users, and describe them (particularly the users) in terms of how much training/experience they might have, their background knowledge, etc.  
-- Conduct two user research methods.  
+- Conduct two user research methods: [Interviews](https://github.com/JacobHuber/CPSC481/tree/Stage2/Interviews) and [Personas](https://github.com/JacobHuber/CPSC481/tree/Stage2/Personas)  
+
 
 #### Stage 3
 Coming Soon
