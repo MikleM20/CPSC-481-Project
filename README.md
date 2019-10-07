@@ -36,7 +36,11 @@ Mobile-accessible app for collecting stamps. Service providers can register with
 ##### Goals
 - Identify Project Idea - InspireUs  
 - Create a list of stakeholders and users, and describe them (particularly the users) in terms of how much training/experience they might have, their background knowledge, etc.  
-- Conduct two user research methods: [Interviews](https://github.com/JacobHuber/CPSC481/tree/Stage2/Interviews) and [Personas](https://github.com/JacobHuber/CPSC481/tree/Stage2/Personas)  
+- Conduct two user research methods
+
+###### Research Methods
+[Interviews](https://github.com/JacobHuber/CPSC481/tree/Stage2/Interviews) and [Personas](https://github.com/JacobHuber/CPSC481/tree/Stage2/Personas)  
+We chose to make use of interviews and personas as we felt it would tell us if there are users that are interested in our idea and would give us some information about what they would want.  
 
 
 #### Stage 3
