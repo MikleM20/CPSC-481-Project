@@ -40,7 +40,7 @@ Mobile-accessible app for collecting stamps. Service providers can register with
 
 ###### Research Methods
 [Interviews](https://github.com/JacobHuber/CPSC481/tree/Stage2/Interviews) and [Personas](https://github.com/JacobHuber/CPSC481/tree/Stage2/Personas)  
-We chose to make use of interviews and personas as we felt it would help us gain some knowledge regarding what stakeholders want, while at the same time would push us towards putting ourselves into their shoes.  
+We chose to make use of interviews and personas as we felt it would help us gain some knowledge regarding what stakeholders want, while at the same time would push us towards putting ourselves into their shoes so that we can gain new perspectives which will help us grow our idea.  
 
 #### Stage 3
 Coming Soon
