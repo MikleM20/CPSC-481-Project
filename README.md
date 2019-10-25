@@ -4,6 +4,7 @@ Welcome to our team's portfolio page for our CPSC 481 project. This page will be
 
 ![InspireUs](/images/Logo1Narrow.png)  
   
+  
 Creators (artists, writers, composers, etc.) often struggle to come up with new ideas for their work. InspireUs would be a mobile app or website designed to generate simple prompts for creators to give them ideas. Users can set a schedule for how frequently they want to receive prompts and can keep track of how many prompts they have fulfilled, using a level system to track progress. Additionally, there would be a community aspect where people can share their work and see what other people have made using the same prompt. Different media, such as images, text, and audio, and links to existing creative social media, would be supported so a variety of creators could be engaged. There could also be an official prompt decided by the app that changes regularly, to encourage everyone to participate with that prompt.  
 
 ### Team Members
