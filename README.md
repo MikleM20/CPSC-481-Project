@@ -28,11 +28,19 @@ Creators (artists, writers, composers, etc.) often struggle to come up with new 
 - Create a list of stakeholders and users, and describe them (particularly the users) in terms of how much training/experience they might have, their background knowledge, etc.  
 - Conduct two user research methods
 
-###### Research Methods
-[Interviews](https://github.com/JacobHuber/CPSC481/tree/Stage2/Interviews) and [Personas](https://github.com/JacobHuber/CPSC481/tree/Stage2/Personas)  
+##### Research Methods
 We chose to make use of interviews and personas as we felt it would help us gain some knowledge regarding what stakeholders want, while at the same time would push us towards putting ourselves into their shoes so that we can gain new perspectives which will help us grow our idea.  
   
-Summary of stage 2 available at[Stage 2 Report](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/481%20Stage%202.pdf)
+- Interviews  
+  - [Questionaire used Throughout Interviews](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/questions.pdf)  
+  - [Compilation of Interview Results](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/interviews.pdf)  
+
+- Personas  
+  - [Mark - Art Professor](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/Mark%20Persona.pdf)
+  - [Abigail - Professional Artist](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/Abigail%20Persona.pdf)
+  - [Piper - Newbie](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/Piper-Persona.pdf)
+  
+Summary of stage 2 available at [Stage 2 Report](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/481%20Stage%202.pdf)
 
 #### Stage 3
 Coming Soon
