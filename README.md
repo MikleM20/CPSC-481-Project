@@ -60,7 +60,7 @@ From this storyboard, we developed a [low-fidelity Powerpoint prototype](https:/
 
 This prototype was used to perform a task-centered design walkthrough. We identified areas for improvement, such as adding more options for viewing posts, more flexible post editing, and more streamlined shopping and profile customization.
 
-A summary of Stage 3 is available at [link]
+A summary of Stage 3 is available at [Stage 3 Report](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/CPSC481%20Stage%203%20Writeup.pdf).
 
 
 
