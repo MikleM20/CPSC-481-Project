@@ -45,7 +45,24 @@ We chose to make use of interviews and personas as we felt it would help us gain
 Summary of stage 2 available at [Stage 2 Report](https://miklem20.github.io/CPSC481-Project-Portfolio/pdfs/481%20Stage%202.pdf)
 
 #### Stage 3
-Coming Soon
+
+**Ideation**
+
+![alt text](https://github.com/JacobHuber/CPSC481/blob/Stage3/Sketches/Sketch%20Summary.jpg?raw=true "Sketches")
+
+In this stage, we brainstormed ideas for the InspireUs interface by sketching. After discussing our sketches, we listed the key ideas from each in an affinity diagramming session.
+
+We constructed a storyboard illustrating several core tasks of our system.
+
+![alt text](https://github.com/JacobHuber/CPSC481/blob/Stage3/Stage3%20Storyboard.png?raw=true "Storyboard")
+
+From this storyboard, we developed a [low-fidelity Powerpoint prototype](https://www.youtube.com/watch?v=t32hmLbLJoU&feature=youtu.be), which is showcased in the linked video.
+
+This prototype was used to perform a task-centered design walkthrough. We identified areas for improvement, such as adding more options for viewing posts, more flexible post editing, and more streamlined shopping and profile customization.
+
+A summary of Stage 3 is available at [link]
+
+
 
 #### Stage 4
 Coming Soon
