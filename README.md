@@ -65,7 +65,13 @@ A summary of Stage 3 is available at [Stage 3 Report](https://miklem20.github.io
 
 
 #### Stage 4
-Coming Soon
+
+In this stage, we created a high fidelity prototype in Adobe XD. [The initial prototype can be found here.](https://github.com/JacobHuber/CPSC481/blob/Stage-4/InspireUs%20(Initial).xd)
+
+After letting another team test it, we summarized their feedback in a [Heuristic Evaluation Report.](https://github.com/JacobHuber/CPSC481/blob/Stage-4/Stage%204%20Heuristic%20Evaluation%20Summary.pdf)
+
+The main comments were that the prototype lacked documentation and had some issues with user freedom and error prevention. We improved these areas by creating new Login and Help pages, and updating many links throughout the site. The [final prototype can be found here.](https://github.com/JacobHuber/CPSC481/blob/Stage-4/InspireUs%20Stage%204%20Final%20Prototype.xd)
+
 
 #### Stage 5
 Final Stage - Coming Soon
