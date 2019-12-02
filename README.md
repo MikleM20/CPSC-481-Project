@@ -74,4 +74,11 @@ The main comments were that the prototype lacked documentation and had some issu
 
 
 #### Stage 5
-Final Stage - Coming Soon
+
+In this stage, we finalized our prototype and created an overview of our entire project. 
+
+Our [final prototype is available here.](https://github.com/JacobHuber/CPSC481/blob/Stage-5/InspireUs%20Stage%205.xd) We made small changes to improve our site, such as post sharing, FAQs and a Followers page.
+
+The [full report on our project can be viewed here.](https://github.com/JacobHuber/CPSC481/blob/Stage-5/CPSC%20481%20Stage%205%20Report.pdf)
+
+We hope that InspireUs may inspire you!
